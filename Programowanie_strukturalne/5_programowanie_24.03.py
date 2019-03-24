@@ -16,7 +16,7 @@ print(ostatni)
 programowanie.append("R")
 print(programowanie)
 
-pr
+
 
 #Zliczanie elementów w liście
 programowanie.append("python")
