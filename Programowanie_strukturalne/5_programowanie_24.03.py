@@ -13,11 +13,13 @@ ostatni = programowanie[-1]
 print(ostatni)
 
 #Dodawanie nowego elementu na końcu listy
-programowanie.apped("R")
+programowanie.append("R")
 print(programowanie)
 
+pr
+
 #Zliczanie elementów w liście
-programowanie.apped("python")
+programowanie.append("python")
 ile = programowanie.count("python")
 print(ile)
 
