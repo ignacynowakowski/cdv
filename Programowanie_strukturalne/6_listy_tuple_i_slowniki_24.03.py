@@ -11,3 +11,15 @@ print(type(osoba))
 print(osoba["imie"])
 print(osoba.keys())
 print(osoba["wzrost"])
+print(osoba.get("wzrost","NULL"))
+print(osoba.get("nazwisko","NULL"))
+
+
+
+
+
+
+
+
+
+print("\n")
